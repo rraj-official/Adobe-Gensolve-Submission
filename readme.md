@@ -1,7 +1,7 @@
 
 # Curvetopia
 
----
+Video Link: https://www.youtube.com/watch?v=fr7JUgmusgs
 
 **Welcome to Curvetopia: A Journey into the World of Curves**
 
@@ -10,8 +10,6 @@ Team Members:
 - Rohit Raj
 - Naitik Verma
 - Ronan Coutinho
-
----
 
 ## Setup
 
