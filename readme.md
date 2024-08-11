@@ -6,6 +6,10 @@
 **Welcome to Curvetopia: A Journey into the World of Curves**
 
 This project involves processing 2D curves from polylines to cubic Bézier curves, with tasks that include regularizing curves, exploring symmetry, and completing incomplete curves.
+Team Members:
+- Rohit Raj
+- Naitik Verma
+- Ronan Coutinho
 
 ---
 
